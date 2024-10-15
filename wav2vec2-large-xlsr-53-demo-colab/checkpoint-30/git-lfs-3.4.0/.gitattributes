@@ -1,0 +1,1 @@
+wav2vec2-large-xlsr-53-demo-colab/checkpoint-30/model.safetensors filter=lfs diff=lfs merge=lfs -text
